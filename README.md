@@ -7,3 +7,5 @@ Dalam prosesnya, apotek seringkali menghadapi permasalahan pada transaksi pembel
 
 ## STRUKTUR ORGANISASI
 ![alt text](https://github.com/rezafhlevi1/manajemenproyekIT/blob/main/struktur%20organisasi.png?raw=true)
+## Link Download PDF
+[Download PDF](https://github.com/rezafhlevi1/manajemenproyekIT/blob/main/kelompok%203%20manjemen%20proyek.pdf)
