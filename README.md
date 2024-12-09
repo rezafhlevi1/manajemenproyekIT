@@ -1,5 +1,13 @@
 # manajemenproyekIT
 APLIKASI MANAGEMENT APOTEK BERBASIS DEKSTOP
+## Kelompok 3
+- Muhammad Hutbi
+- Reza Fahlevi
+- Moh. Heri Irawan
+- Lesta Nabila
+- Diandra Malika Putri
+- Nida Ulhusna
+- Rangga Aditya
 
 ## Latar Belakang
 Apotek adalah suatu tempat dilakukannya pekerjaan kefarmasian, penyaluran sediaan farmasi, dan perbekalan kesehatan lainnya terhadap masyarakat. Pengertian ini didasarkan pada Keputusan Menteri Kesehatan Republik Indonesia No.1332/Menkes/SK/X/2002 tentang Perubahan atas Peraturan Menteri Kesehatan RI No.922/Menkes/Per/X/1993 tentang ketentuan  dan tata cara pemberian izin apotek.   
